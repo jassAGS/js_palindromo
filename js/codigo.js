@@ -14,7 +14,7 @@ function palindromo(frase){
     alert("no es palindromo");
   }
 
-  return palindromesino;
+  
 }
 
 palindromo(frase);
